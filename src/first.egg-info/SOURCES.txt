@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/first.egg-info/PKG-INFO
+src/first.egg-info/SOURCES.txt
+src/first.egg-info/dependency_links.txt
+src/first.egg-info/top_level.txt
+src/mongodb_connect/__init__.py
+src/mongodb_connect/mongo_crud.py
